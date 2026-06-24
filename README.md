@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sentir tu ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-angel/) |
+| **Get License** | [Obtain a Music License for Sentir tu ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `944e3fb1da3525a1b2b2877a1f0a133b0fb7b3ecf0e27cf28291a60e0ef36b42` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

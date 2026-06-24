@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu ángel
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu ángel** (sentir-tu-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T14:53:25.815247 | `v1` | `944e3fb1da3525a1b2b2877a1f0a133b0fb7b3ecf0e27cf28291a60e0ef36b42` | `a21640ead6c4e4d7a55352ff0c167c9e343911fd6498ba437af729f14b75b68f` | `2026-06-24_sentir-tu-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

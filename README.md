@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sentir tu ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-angel/) |
+| **Get License** | [Commercial Licensing for Sentir tu ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero sentir tu ángel, brillando en la oscuridad
+> Tú y yo perdiendo el norte, rompiendo la gravedad
+> Esa mirada me tienta, shorty you know how we play
+> No dejes para mañana lo que nos daremos hoy, babe
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
